@@ -1,0 +1,1 @@
+Both the ARM library and the using method end up with the same result, implementing the Loan Pattern to make sure your resource is closed automatically
